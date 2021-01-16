@@ -1,5 +1,48 @@
 VIẾT CHO TUI HOẶC NHỮNG NGƯỜI SAU TÔI
 
+Nhóm Tử Vi an theo chiều nghịch, nhóm Thiên Phủ an theo chiều thuận tuy chỉ là cách an nhưng nó thể hiện tính Âm Dương rõ nét
+
+Vòng Tràng Sinh: 
+	Dương Nam, Âm Nữ
+		Kim tứ cục		an Tràng Sinh tại	Tỵ	
+		Mộc tam cục							Hợi
+		Hoả lục cục							Dần
+		Thuỷ nhị cục						Thân
+		Thổ ngũ cục							Thân
+		
+	Âm Nam, Dương Nữ
+		Kim tứ cục		an Tràng Sinh tại	Dậu	
+		Mộc tam cục							Mão
+		Hoả lục cục							Ngọ
+		Thuỷ nhị cục						Tý
+		Thổ ngũ cục							Tý
+
+Đà La không bao giờ đi chung với Lực Sĩ. 
+
+Thiên Khôi Thiên Việt:
+		Tuổi				Khôi		Việt
+		
+		Giáp Mậu			Sửu			Mùi
+		Ất Kỷ				Tý			Thân
+		Bính Đinh			Hợi			Dậu
+		Canh Tân			Ngọ			Dần
+		Nhâm Quý			Mão			Tỵ
+
+Tứ Hoá:
+Tuổi 	Hoá Lộc		Hoá Quyền		Hoá Khoa		Hoá Kỵ
+
+Giáp	Liêm-Trinh	Phá-Quân		Vũ-Khúc			Thái-Dương
+Ất		Thiên-Cơ	Thiên-Lương		Tử-Vi			Thái-Âm
+Bính	Thiên-Đồng	Thiên-Cơ		Văn-Xương		Liêm-Trinh
+Đinh	Thái-Âm		Thiên-Đồng		Thiên-Cơ		Cự Môn
+Mậu		Tham-Lang	Thái-Âm			Hữu Bật			Thiên-Cơ
+Kỷ		Vũ-Khúc		Tham-Lang		Thiên-Đồng		Thái-Âm
+Canh	Thái-Dương	Vũ-Khúc			Thiên-Đồng		Thái-Âm
+Tân		Cự-Môn		Thái-Dương		Văn-Khúc		Văn-Xương
+Nhâm	Thiên-Lương	Tử-Vi			Tả-Phủ			Vũ Khúc
+Quý		Phá-Quân	Cự-Môn			Thái-Âm			Tham-Lang
+
+
 14 chính tinh
 1 lá số bao gồm 2 bộ chính
 1) 	+ Tử Phủ Vũ Tướng (Liêm)
@@ -11,18 +54,6 @@ VIẾT CHO TUI HOẶC NHỮNG NGƯỜI SAU TÔI
 	+ Cự Nhật
 	- Phủ Tướng
 	
-Các Can
-0 - Canh
-1 - Tân
-2 - Nhâm
-3 - Quý
-4 - Giáp
-5 - Ất
-6 - Bính
-7 - Đinh
-8 - Mậu
-9- Kỉ
-
 
 vòng Thái Tuế được tính bắt đầu từ Địa Chi
 1 - Thái Tuế
@@ -139,6 +170,13 @@ Phủ Tướng: nhẹ nhàng, không ham hố sân si
 
 những người tam hợp Mệnh Tài Quan ở Tị Dậu Sửu thì thường xung khắc với ba mẹ, hay phải sống xa ba mẹ 
 	bởi vì tam hợp Kim mà tam hợp của phụ mẫu lại là Hoả
+	
+cung an thân rất sợ Tuần hoặc Triệt, những người này thường là người không quả quyết, thích an nhàn làm việc theo ý của người khác	
+										học 1 nghề rồi lại đi làm nghề khác
+										
+1 trường hợp đặc biệt là cung an thân có Sát Phá Tham HÃM ĐỊA có tuần triệt ở tam hợp Mệnh Tài Quan 
+	trường hợp này sẽ có 1 khoảng thời gian "phát dã như lôi" tiếng tăm lẫy lừng nhưng cần giữ lấy đức
+	hạnh của mình làm việc tốt để giữ lại được
 
 Thái Tuế đóng cung Phụ Mẫu thì bố mẹ hay nói nhiều 
 
@@ -179,6 +217,7 @@ Thiên Quan Thiên Phúc	cung Quan -> hay có người giúp
 						
 Thiên Tướng ngộ Thiên Hình : tại nạn như tướng có sẹo
 			ngộ Triệt: tuổi trẻ lên bờ xuống ruộng
+			HÃM ĐỊA + Địa Kiếp + Hồng Loan (có thể có Tả Hữu) thì rất có thể trở thành thầy về tâm linh
 
 Tử Vi Thiên Tướng gặp Triệt or Hình thì như tướng mất đầu => rất xấu
 
@@ -215,7 +254,13 @@ cung Tật Ách 	có Thiên Cơ (mà thiên cơ thì hay chủ về cái đầu)
 				có Hoa Cái chủ về bệnh trĩ
 				có Thiên Sứ chủ về vấn đề về răng
 
-sao Dưỡng chủ về quan tâm mình trước còn người khác tính sau =)) mình có cái này =)) 
+Thiên Cơ gặp Hoá Kỵ thì càng suy nghĩ chu đáo bao nhiêu thì càng thất bại bấy nhiêu cứ là phớt phớt thì lại ok
+
+Thái Âm tại Hợi gọi là "nguyệt lãng thiên môn"
+
+nghiệm lý: Cung mệnh hoặc tam hợp mệnh có bộ Âm Dương thì kiểu gì cũng có 1 lần trắng tay làm lại từ đầu. hạn có Âm Dương thì cũng cẩn thận
+
+đất Dưỡng chủ về quan tâm mình trước còn người khác tính sau =)) mình có cái này =)) 
 
 cung Tử Tức		VCD thì khó có con, không sinh con hoặc muộn con
 
@@ -227,7 +272,7 @@ Liêm Tham hoá khí là từ tinh
 
 Sát Phá Tham thì không ưa Tam minh đào hồng hỷ vì nó làm giảm đi tính mạnh mẽ dẫn đến lúc nắng lúc mưa =)
 
-Thất Sát cư Tí thì gọi là Thất Sát triều đẩu 
+
 
 Phi Liêm chủ về tóc 
 Long Trì Phượng Các chủ về tai và mũi
@@ -254,6 +299,8 @@ Hoá Lộc ở 	cung Tật thì hạn chế cho vay, kiểu cho mà khó nhận 
 			cung Nô nằm trên đất Bệnh thì ít bạn
 			cung Điền thì yêu thương chăm sóc người nhà
 
+Hoá Lộc ở Sửu Mùi Thìn Tuất (Tứ mộ) mà trên đất Mộ thì tức là lộc đã bị chôn vùi nhưng nếu có Thất Sát hoặc Thiên Hình thì sẽ được bới ra và hưởng
+
 Huynh Đệ nằm trên đất Trường Sinh thì thường có > 3 
 
 Bạo phát bạo tàn: 1 - Tử Tham thì khi có tiền thì chi tiêu không suy nghĩ hay mua đồ linh tinh mua cái này mua cái kia dẫn đến hết tiền
@@ -271,6 +318,12 @@ Hình tướng 	- Liêm Trinh thì mặt đầy nhưng không tròn
 			- Tử Vi hơi thấp người đầy đặn
 
 ************** Phụ Tinh ****************
+
+Tả Phù: Dương Thổ  đới Kim
+Hữu Bật: Dương Thổ đới Thuỷ
+Thiên Việt: Dương Hoả đới Mộc
+Phong Cáo: Thổ đới Thuỷ
+
 ---Sao Bạch Hổ
 Hãm địa: Cứng đầu, ương ngạnh 
 Đắc địa: Nam tính, tài giỏi, hơi cô độc, giỏi tâm linh (Dần Mão Thân Dậu)
