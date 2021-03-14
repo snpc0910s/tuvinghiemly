@@ -2,6 +2,17 @@ VIẾT CHO TUI HOẶC NHỮNG NGƯỜI SAU TÔI
 
 Nhóm Tử Vi an theo chiều nghịch, nhóm Thiên Phủ an theo chiều thuận tuy chỉ là cách an nhưng nó thể hiện tính Âm Dương rõ nét
 
+Cách an cục:
+Giáp 	1		Kỷ		6
+Ất		2		Canh	7
+Bính	3		Tân		8
+Đinh	4		Nhâm	9
+Mậu		5		Quý		10
+Lấy can x2 + 1 -> lấy số lẻ cuối so với can định sẵn rồi an với cung Dần
+VD: Âm Nam, Đinh Sửu tháng 9 giờ Sửu thì lấy 4*2 + 1 = 9 => Nhâm tại Dần
+rồi đếm đến cung an Mệnh (tại Dậu) thì là Kỷ Dậu => Thổ cục (cách tính trên bàn tay) 
+
+
 Vòng Tràng Sinh: 
 	Dương Nam, Âm Nữ
 		Kim tứ cục		an Tràng Sinh tại	Tỵ	
@@ -42,6 +53,18 @@ Tân		Cự-Môn		Thái-Dương		Văn-Khúc		Văn-Xương
 Nhâm	Thiên-Lương	Tử-Vi			Tả-Phủ			Vũ Khúc
 Quý		Phá-Quân	Cự-Môn			Thái-Âm			Tham-Lang
 
+Hoả Tinh, Linh Tinh:
+	Tuổi Dương Nam, Âm Nữ
+		Thân Tý Thìn bắt đầu từ cung cung Dần tính thuận đến giờ sinh an Hỏa
+		Thân Tý Thìn bắt đầu từ cung cung Tuất tính nghịch đến giờ sinh an Linh
+		Dần Ngọ Tuất bắt đầu từ cung cung Sửu tính thuận đến giờ sinh an Hỏa
+		Dần Ngọ Tuất bắt đầu từ cung cung Mão tính nghịch đến giờ sinh an Linh
+		Tỵ Dậu Sửu bắt đầu từ cung cung Mão tính thuận đến giờ sinh an Hỏa
+		Tỵ Dậu Sửu bắt đầu từ cung cung Tuất tính nghịch đến giờ sinh an Linh
+		Hợi Mão Mùi bắt đầu từ cung cung Dậu tính thuận đến giờ sinh an Hỏa
+		Hợi Mão Mùi bắt đầu từ cung cung Tuất tính nghịch đến giờ sinh an Linh
+		
+	Tuổi Âm Nam, Dương Nữ cùng ở những cung như trên tính chiều thuận và nghịch trái lại cho cả 12 tuổi và 02 sao.
 
 14 chính tinh
 1 lá số bao gồm 2 bộ chính
@@ -111,7 +134,7 @@ Hoá Quyền: thích hợp Mệnh hoặc Quan. may mắn, nếu tự ái lại t
 Hoá Lộc: cung Tài
 
 
-Lộc Tồn chỉ ăn được ở 4 Can:
+Lộc Tồn chỉ ăn được ở 4 Can vì thuận âm dương:
 
 Giáp (Dần Ngọ Tuất)
 Ất (Hợi Mão Mùi)
@@ -122,7 +145,18 @@ Lộc Tồn mà mà đồng cung với Hoá Lộc thì không tốt
 
 Lộc Tồn đóng cung Phúc thì không lo tiền bạc hết lại có (may be =) )
 
-
+************** Tuần Triệt tháo gỡ ******** thường là sau 30 (con số chung chung) mới được
+-	Mệnh bị Triệt gặp Tuần sớm quá thì (trước 30) thì không thể tháo gỡ ra được
+-	Mệnh và Triệt đồng cung thì không thể tháo gỡ ra được. Ngay cả khi đến tam hợp tuổi thì cũng chỉ 50% tối đa.
+-	Trường hợp Tuần hay Triệt của người âm dương thuận lý thì tại 
+										cung dương sẽ tháo gỡ ngay 10 năm cho người dương. 
+										cung âm sẽ tháo gỡ ngay 10 năm cho người âm
+-	Trường hợp Tuần hay Triệt của người âm dương nghịch lý thì thời vận được mở làm 2 lần chầm chậm ở 2 cung có Tuần Triệt (cung Dương trước cung Âm sau)
+										đại vận 10 năm ở cung Dương thì mở 5 năm đầu 5 năm sau đóng
+										đại vận 10 năm ở cung Âm thì  đóng 5 năm đầu 5 năm sau mở
+												VD với 2 cung liền nhau (20 năm): cung dương trước:  +++ 5 +++ ---5--- ---5--- +++5+++
+																				  cung âm trước:	 --- 5 --- +++5+++ +++5+++ ---5---	
+- 	Đôi khi gỡ ra không phải là tốt =)))
 ************** Chính Tinh ****************
 ---Sao Thái Dương
 Tử Vi là Bắc đẩu tinh
@@ -316,6 +350,9 @@ năm 7 tuổi và năm 67 tuổi thì là năm thiên khắc địa xung (khắc
 Hình tướng 	- Liêm Trinh thì mặt đầy nhưng không tròn
 			- Thiên Đồng Thái Âm thì mặt tròn (rất là tròn =)) )
 			- Tử Vi hơi thấp người đầy đặn
+			
+Tử Vi ở đất Đế Vượng gọi là Lưỡng đế trùng phùng
+Thê có Tử Vi, Phu cũng có Tử Vi gọi là Lưỡng đế Kỳ Duyên
 
 ************** Phụ Tinh ****************
 
@@ -384,12 +421,65 @@ hãm địa thì gan lì mưu mẹo
 
 mệnh Vô Chính Diệu đến hạn có Kình Dương Thất Sát thì dễ phất
 
-
-
 --Đà La 
 Mệnh Vô Chính Diệu có Đà La thì cũng có thể Sát Tinh Độc Thủ
 
 Đà La nằm ở Thìn Tuất thì nằm trong thế "thiên la địa võng" nhưng có Hoá Khoa và 1 số cát tinh khác thì có thể giải được 
+
+
+--Hoá Kỵ
+
+cung Tật Ách:	Người có tính thu vào
+
+cung Phu Thê: 	kì vọng vào hôn nhân đâm ra dễ yêu dễ hận
+				có Hoá Kỵ thì kiểu gì cũng có vợ =))
+				dễ biến động hôn nhân
+				cảm nhận về người chồng hay người vợ hơi đa nghi khó chia sẻ nhưng khó bỏ nhau =)
+				có tính chiếm hữu, biểu thị tình cảm dở :)) nên học cách khen
+				kết hôn thì ba mẹ bên kia thường mất 1 hoặc 2 (nghiệm lý)
+				hạn chế yêu đương trong quá trình học =)
+				xung chiếu với cung quan nên cũng ảnh hưởng 1 phần
+				di phúc dễ bị thái hoá và mất ý chí
+
+cung Tử Tức:	chậm có con, hơi khó khăn hoặc thể chất hơi yếu
+				Hoá Lộc thì hi vọng vào con cái còn Hoá Kỵ thì quá kỳ vọng vào con cái dẫn đến việc áp lực cho con cái
+				xung chiếu cung diền -> bất động sản khó giữ
+				tránh hợp tác làm ăn chung với người khác rất dễ bị thua
+				bạn bè hơi thiếu nhân cách
+				tiêu xài hoang phí, dễ tình ái bên ngoài
+
+cung Tài Bạch:	ham mê tiền bạc, muốn có tiền mà không muốn chi tiêu
+				có năng lực kiếm tiền nên làm ngành hành pháp tư pháp, kiếm tiền tự do k theo thông lệ bình thường và cũng có thể làm thầy
+				hay bị thất nghiệp thời gian ngăn , không an toàn và lo lắng về tiền bạc
+				thực dụng, hay lấy tiền bạc làm thước đo đánh giá người khác
+				nặng tâm lý được mất (xung chiếu phúc đức)
+
+cung Thiên Di: 	hay cảm thấy không yên, hay lo xa
+				lo cho chồng vợ về việc kiếm tiền
+				tình đầu khó thành
+				cẩn thận tai nạn giao thông
+				hay tự ái =))
+				đại vận tam hợp có Hoá Kỵ thì hay bị tâm lý nếu có Thiên Đồng Thì hay bị mệt mỏi
+
+cung Nô Bộc:	thường không nhờ được bạn bè, hay phiền phức từ bạn bè
+				mình xử sự cũng không được khéo lắm
+				không nên cho bạn mượn tiền, hay hợp tác làm ăn chung
+				dễ tai nạn bất ngờ
+				Vũ Khúc mà đi cùng với Hoá Kỵ bị ngộ Hoả Linh thì hay gặp rắc rối nếu gặp Không Kiếp thì ảnh hưởng mạnh hơn rất nhiều
+				Vũ Khúc + Hoá Kỵ không nên làm ăn với bạn bè
+				Tham Lang + Hoá Kỵ bị người khác cướp thành quả
+				gặp thêm Đào Hoa , Văn Xương, Văn Khúc rất dễ vì gái mà gặp hoạ :))
+				Cự Môn + Văn Khúc + Hoá Kỵ thì cấp dưới hay hứa hẹn mà không làm được
+				Thiên Tương + Hoá Kỵ (thêm Hình Hao) hay bị mệt mỏi về bạn bè
+				Thất Sát(Mão Dậu) có Vũ Khúc + Hoá Kỵ thì vì bạn mà phá sản
+				dễ gặp lừa đảo
+				
+cung Quan Lộc:	thích đi học nhưng học thì lại không có vào :))
+				làm việc chăm chỉ, chú tâm vào công việc
+				thường kết hôn muộn vì chú trọng vào công việc 
+				hay để ý tiểu tiết
+				làm công ăn lương thì sẽ ok hơn
+
 
 
 
