@@ -15,6 +15,14 @@ Lấy can x2 + 1 -> lấy số lẻ cuối so với can định sẵn rồi an v
 VD: Âm Nam, Đinh Sửu tháng 9 giờ Sửu thì lấy 4*2 + 1 = 9 => Nhâm tại Dần
 rồi đếm đến cung an Mệnh (tại Dậu) thì là Kỷ Dậu => Thổ cục (cách tính trên bàn tay) 
 
+Cách an sao Tử Vi nhanh: dựa vào Cục và ngày 
+A = bội số nhỏ nhất của cục mà lơn hơn ngày (VD : ngày 27 mà thổ ngũ cục (5) thì A = 30, ngày 4 mà hoả lục cục (6) thì là 6 , ngày 10 mà thổ ngũ cục thì là 10)
+B =  A /  số cục. (B = 30 / 5 = 6). Đếm từ Dần là 1 đếm xuôi vòng đến B thì dừng (vd này là Mùi).
+
+C =  A - số ngày. (C = 30 - 27 = 3)
+			Nếu C = 0 thì an luôn tử vi tại cung sau khi đếm B
+			Nếu C là số lẻ thì lùi từng đó ô rồi an sao Tử Vi ( B = 6 -> ở Mùi. từ Mùi đếm lùi 3 ô -> Tử Vi ở Thìn)
+			Nếu C là chẵn thì tiền từng đó ô rồi an sao Tử Vi ( B = 6 -> ở Mùi mà C dư 2 (chẵn) thì tiến 2 ô -> Tử Vi ở Dậu )
 
 Đà La không bao giờ đi chung với Lực Sĩ. 
 
